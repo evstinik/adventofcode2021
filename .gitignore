@@ -1,3 +1,6 @@
 a.out
 day0
 .vscode
+*.xcodeproj/
+DerivedData/
+.DS_Store
